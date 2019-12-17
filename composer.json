@@ -1,0 +1,14 @@
+{
+    "name": "bebeto/googleclient",
+    "description": "Old version of Google API to PHP",
+    "type": "Library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Google",
+            "email": "google@google.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
