@@ -1,5 +1,5 @@
 {
-    "name": "bebeto/googleclient",
+    "name": "bebeto/googleapiclient",
     "description": "Old version of Google API to PHP",
     "type": "Library",
     "license": "Apache-2.0",
