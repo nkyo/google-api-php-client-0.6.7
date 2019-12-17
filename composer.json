@@ -1,7 +1,7 @@
 {
     "name": "bebeto/google-api-php-client",
     "description": "Google APIs client library for PHP",
-    "license": "Apache 2.0",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Bebeto",
