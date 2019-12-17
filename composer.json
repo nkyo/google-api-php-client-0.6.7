@@ -1,14 +1,15 @@
 {
     "name": "bebeto/googleapiclient",
-    "description": "Old version of Google API to PHP",
-    "type": "Library",
+    "type": "library",
+    "description": "Old version of Google APIs to PHP",
     "license": "Apache-2.0",
-    "authors": [
-        {
-            "name": "Google",
-            "email": "google@google.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "php": ">=5.4",
+    },
+    "require-dev": {
+    },
+    "suggest": {
+    },
+    "autoload": {
+    },
 }
