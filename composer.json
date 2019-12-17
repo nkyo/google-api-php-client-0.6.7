@@ -4,12 +4,12 @@
     "description": "Old version of Google APIs to PHP",
     "license": "Apache-2.0",
     "require": {
-        "php": ">=5.4",
+        "php": ">=5.4"
     },
     "require-dev": {
     },
     "suggest": {
     },
     "autoload": {
-    },
+    }
 }
