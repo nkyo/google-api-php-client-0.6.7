@@ -1,15 +1,19 @@
 {
-    "name": "bebeto/googleapiclient",
-    "type": "library",
-    "description": "Old version of Google APIs to PHP",
-    "license": "Apache-2.0",
+    "name": "bebeto/google-api-php-client",
+    "description": "Google APIs client library for PHP",
+    "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "Bebeto",
+            "email": "bebeto.contato@gmail.com"
+        }
+    ],
     "require": {
-        "php": ">=5.4"
-    },
-    "require-dev": {
-    },
-    "suggest": {
+        "php": ">=5.2.0",
+        "ext-curl": "*",
+        "ext-json": "*"
     },
     "autoload": {
+        "classmap": ["src/"]
     }
 }
